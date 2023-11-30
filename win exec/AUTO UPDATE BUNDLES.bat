@@ -8,5 +8,6 @@ set pathToBash="<>"
 :: ###> AUTO UPDATE BUNDLES ###
 cd C:
 cd %gitDirPath%
+:: this file must place into the main project (FROM THIS DOCS)
 %pathToBash% -c "./update.sh"
 :: ###< AUTO UPDATE BUNDLES ###
