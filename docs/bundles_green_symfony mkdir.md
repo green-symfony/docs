@@ -19,3 +19,5 @@ mkdir "./bundles/green-symfony" -p
 ```console
 cd "./bundles/green-symfony"
 ```
+
+Go on with the following instructions on the previous page.
